@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Vinicio Monteiro
+# 👋 Olá, Sou Vinicio Monteiro!
 
 <!--
 **viniciomsilva/viniciomsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Atualmente estou graduando em Engenharia de Software
+- 🌱 Atualmente estou graduando em Engenharia de Software, pela Estácio
+    - 🐄 [Projetos do primeiro semestre](https://github.com/viniciomsilva/eng-software-si)
