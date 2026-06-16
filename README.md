@@ -1,4 +1,4 @@
-# 👋 Olá, Sou Vinicio Monteiro!
+# 👋 Olá, sou Vinicio Monteiro!
 
 <!--
 **viniciomsilva/viniciomsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
